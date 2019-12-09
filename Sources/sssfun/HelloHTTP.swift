@@ -5,7 +5,7 @@
 //  Created by Denis Bystruev on 09.12.2019.
 //
 //  http://www.alwaysrightinstitute.com/http-010/
-//  docker run -p 1337:1337 -it --name sssfun -v ./sssfun:/sssfun -w/sssfun swift:4.0 /bin/bash
+//  docker run -p 1337:1337 -it --name sssfun -v ~/sssfun:/sssfun -w/sssfun swift:4.0 /bin/bash
 
 import Foundation
 import HTTP
